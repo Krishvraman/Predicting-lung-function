@@ -1,15 +1,5 @@
 # Predicting-lung-function
-
-The goal of the project is to predict the lung function of pulmonary fibrosis patients using pre diagnostic CT scan and longitudenal data of spirometer readings
-
-What is the Problem: 
-Wide variation in how the disease progresses in each patient
-Unpredictability in rate of decline – Leads to anxiety for patients and causes problems in treatment planning 
-
-Why predict lung function decline ?:
-It would significantly aid patients and doctors to make much more informed medical decisions and build better treatment strategies
-Understanding prognosis would help in managing the disease better - create a sound patient care plan
-
+predict the lung function of pulmonary fibrosis patients using pre diagnostic CT scan and longitudenal data of spirometer readings
 
 # Overall Pipeline:
 
@@ -38,6 +28,5 @@ Regression evaluation:
 
 Model performance - demonstracted on two patients with different rate of decline:
 
-The model is able to generate clinically relevant results
 
 ![image](https://user-images.githubusercontent.com/117613924/201547634-a924047a-1545-45f9-b223-8c0c3a07a503.png)
